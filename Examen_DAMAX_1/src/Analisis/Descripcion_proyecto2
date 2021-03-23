@@ -1,0 +1,24 @@
+Realizado por Pablo Pianelo y Alejandro Zaplana
+
+Pregunta2
+
+Estamos realizando la creacion de las clases Paciente,Sanitario, Mayores, Docente
+y Estado , creando los atributos corespondientes. La estructura y relación de las clases consiste en que
+Paciente es el padre de Sanitario, Mayores y Docente.
+Paciente:
+Nombre, Apellidos, el DNI y la Fecha de Nacimiento, y si han pasado ya el COVID-19 o no. 
+
+Sanitario:
+El nombre del hospital en el que trabajan.
+
+Mayores:
+Si están en una residencia o no.
+
+Docente:
+Si son profesores de Primaria ó Secundaria y 
+el nombre del centro en el que trabajan.
+
+Creamos un metodo para Docentes llamadolo getSituacionDocente
+
+por ultimo en Estado los dividimos en Contagio y Vacuna
+
