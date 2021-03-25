@@ -12,8 +12,7 @@ import java.time.LocalDate;
  * @author DAM1
  */
 public class Paciente {
-    public class Paciente {
-    
+   
     protected String nombre;
     protected String apellidos;
     protected String DNI;
@@ -120,4 +119,4 @@ public class Paciente {
 
 }
 
-}
+
