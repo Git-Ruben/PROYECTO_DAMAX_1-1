@@ -61,5 +61,4 @@ public class Sanitario extends Paciente{
         return prioridadPaciente;
     }
 
-    
 }
