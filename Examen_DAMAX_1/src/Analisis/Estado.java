@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 /**
  *
- * @author DAM1
+ * @author NICO
  */
 public abstract class Estado {
     protected LocalDate fechaEstado;
