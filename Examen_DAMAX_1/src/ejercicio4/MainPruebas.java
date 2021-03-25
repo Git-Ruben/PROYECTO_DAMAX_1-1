@@ -21,6 +21,7 @@ package ejercicio4;
  * - Vacuna a un paciente de manera exitosa.
  * 
  * - Vacuna a un paciente provocando una excepción.
+ * 
  *
  * @author AnthonyLeonLucero
  */
