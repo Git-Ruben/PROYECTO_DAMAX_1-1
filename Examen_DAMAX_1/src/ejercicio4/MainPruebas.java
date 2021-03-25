@@ -21,6 +21,9 @@ package ejercicio4;
  * - Vacuna a un paciente de manera exitosa.
  * 
  * - Vacuna a un paciente provocando una excepción.
+ * 
+ * Este comentario sirve a modo de confirmacion de que el pull reques funciona
+ * correctamente.
  *
  * @author AnthonyLeonLucero
  */
